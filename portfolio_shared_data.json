@@ -1,11 +1,11 @@
 {
     "basic_info": {
       "name": "Miguel Frutos",
-      "titles": [ "Data Scientist", "Project Manager", "Dev Team lead", "Mobile App Developer" ],
+      "titles": [ "Data Scientist", "AI/ML", "Deep Learning", "Project Manager" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/miguelfrutos",
           "class": "fab fa-github"
         },
         {
